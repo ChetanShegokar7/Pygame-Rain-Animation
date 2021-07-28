@@ -15,3 +15,9 @@ To run the animation double click on "Rain Animation.py" file.
 To exit the animation program press "Q".
 
 use SPACE for lightning.
+
+You can see the output of the above pygame program below.
+
+https://user-images.githubusercontent.com/86248226/127376632-63af79b4-9ca2-47b0-8d5c-41e834a11ae6.mp4
+
+
