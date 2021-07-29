@@ -1,14 +1,14 @@
 # Pygame-Rain-Animation
 
+**A simple rain animation using python, using pygame module.**
+
 **Created By:**
 *Chetan Shegokar*
 
 **email:**
 chetanshegokar777@gmail.com
 
-A simple rain animation using python, using pygame module.
-
-## To run this program in your computer your computer must have python and pygame installed.
+###### To run this program in your computer your computer must have python and pygame installed.
 
 1. To run the animation double click on **"Rain Animation.py"** file.
 
