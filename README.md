@@ -8,7 +8,7 @@
 **email:**
 chetanshegokar777@gmail.com
 
-###### To run this program in your computer your computer must have python and pygame installed.
+# To run this program in your computer your computer must have python and pygame installed.
 
 1. To run the animation double click on **"Rain Animation.py"** file.
 
