@@ -5,7 +5,7 @@
 **Created By:**
 *Chetan Shegokar*
 
-**email:**
+**Email:**
 chetanshegokar777@gmail.com
 
 ### To run this program in your computer your computer must have python and pygame installed.
